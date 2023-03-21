@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+*{
+    /* For use debugging only */
+    /* border: 1px red solid; */
+}
+
+.Header {
+    display: flex;
+}
+
+.Content {
+    display: flex;
+    flex-grow: 2;
+}
+
+.Footer {
+    display: flex;
+}
