@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'YourFontName'; /*a name to be used later*/
-    src: url('../fonts/KingsAndPirates.ttf'); /*URL to font*/
+    src: url('./fonts/KingsAndPirates.ttf'); /*URL to font*/
 }
 
 body {
